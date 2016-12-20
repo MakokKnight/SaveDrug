@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello this is conflict
+=======
+hi brach2. how are you?
+>>>>>>> ac3ac07deb1988dff311416301a572b576f2e017
